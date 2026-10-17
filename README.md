@@ -61,19 +61,20 @@ RetailPulse includes 12 dashboards designed to analyze different aspects of reta
 Explore the interactive dashboards developed for the RetailPulse project using Microsoft Power BI.
 
 ### 1. Executive Summary
-![Executive Summary Dashboard]
+<img width="1157" height="652" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/618d586b-32a1-472d-aa63-b5b24b977666" />
 
 ### 2. Sales Trend Analysis
-![Sales Trend Analysis Dashboard]
+<img width="1155" height="642" alt="Sales Trend Analysis" src="https://github.com/user-attachments/assets/0122ba78-6a2f-44c0-9d20-8a6cfd9ede30" />
 
-### 3. Product Performance
-![Product Performance Dashboard]
+### 3. Customer Performance
+<img width="1176" height="642" alt="Customer Insights" src="https://github.com/user-attachments/assets/76028905-0e14-4083-a6e7-6d3ae468d21c" />
 
-### 4. Customer Analytics
-![Customer Analytics Dashboard]
+### 4. Inventory Analytics
+<img width="1158" height="643" alt="Inventory Risk Analytics" src="https://github.com/user-attachments/assets/ed2bc333-230d-4b7f-8c2a-c5a2614630fe" />
 
 ### 5. Advanced Analytics
-![Advanced Analytics Dashboard]
+<img width="1158" height="643" alt="Advance Analytics" src="https://github.com/user-attachments/assets/9ba65d16-865a-408c-990c-0f8731fb8ce9" />
+
 
 
 ## 📌 Key Performance Indicators (KPIs)
@@ -244,7 +245,6 @@ Future enhancements may include:
 -  Cloud integration and automated data refresh
 -  Advanced analytics using Python and machine learning
 
-*These are potential future enhancements and should not be considered implemented unless they have actually been developed.*
 
 ## 👩‍💻 Author
 
